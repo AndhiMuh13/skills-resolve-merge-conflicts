@@ -3,7 +3,7 @@
 Resolving merge conflicts
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Experience
+## Jobs
 
 ### GitHub Trainer
 
